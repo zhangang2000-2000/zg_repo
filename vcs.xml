@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="zhangang2000-2000" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/spring-projecs/spring-framework" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="/Volumes/ZG_Mac_SSD/SpringFrameWork2_Code" />
   </component>
 </application>
